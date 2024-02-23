@@ -1,0 +1,81 @@
+/* Estilo geral */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #234cff;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: 40px 0;
+}
+
+/* Conteúdo principal */
+main {
+    padding: 50px;
+}
+
+/* Seção de sucos */
+.sucos {
+    flex-wrap: wrap;
+}
+
+.sucos div {
+    list-style: none;
+    margin: 5px;
+    padding: 10px;
+    background-color: #bcd9fa;
+    border: 1px solid #ff8d8d;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    text-align: center;   
+}
+
+.sucos div img {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.sucos div h3 {
+    margin: 0;
+    padding: 0;
+}
+
+.sucos div p {
+    margin: 5px 0;
+}
+
+/* Seção de informações */
+.informacoes {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #0051ff;
+    color: #ffffff;
+}
+
+.informacoes h3 {
+    margin: 0;
+    padding: 0;
+}
+
+.informacoes p {
+    margin: 10
+}
+img{
+    width: 100px;
+    height: 100px;
+}
