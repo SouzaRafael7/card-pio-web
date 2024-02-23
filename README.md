@@ -9,50 +9,13 @@
 * [Autores](#autores)
  
 ## Descrição
-No trabalho proposto sobre o formulário de ecommerce, foi utilizados 3 sites, sendo eles: Shopee, Amazon e Mercado livre. Cujo mesmo foi retirado seus fomulários de compra. Onde desses sites o que mais apresenta campos de preenchimento é a empresa/site da shopee.
+O projeto do cardápio online foi iniciado na aula de programção web na Escola Marista Irmão Acácio com o educador Léo. No projeto, foi proposto um cardápio online podendo colocar no mínimo 10 itens de sua escolha, além de ter que fazer um html digno e um css estilizado. 
 
-Após isso foi proposto em sala um trabalho para fazer um formulário com as caracteristicas que foram pega dos 3 sites para produzir um formulário de cadastro.
-
+O site foi feito para ajudar pessoas com lojas físicas ou não, em não precisar gastar com cardápios físicos utilizando plástico e papel, assim facilitando sua vida e ajudando a natureza. Além de ser mais moderno, podendo ser acessado pelo site da empresa ou apenas por um código Qr Code.
 ## Site
-O site de cadastro e bem simples e interativo, não dificultando a vida de pessoas que não tem certo conhecimento as tecnologias que não sabem mexer em computadores e celulares.
-Ao entrar no site você irá se deparar com tela do formulário com os seguintes campos:
+O cardápio é da loja Fresh Juice (Nome e logo fictício), onde a mesma é uma loja de sucos naturais, saborosos e bem feitos, com um preço relaivamente acessível em relação as outras loja do mesmo ramo pesquisadas.
 
-![Site](vdi/YUT.gif)
-
-* Dados pessoais
-
-Nome Completo - Campo onde colacar seu nome;
-
-CPF - Colocar seu CPF;
-
-Data Nascimento - Coloque sua data de nascimento;
-
-Email - Colocar seu email pessoal ou de trabalho e não colocar email que não usa com certa constância;
-
-Confirme seu email - confirmar seu email;
-
-Senha - Coloque sua senha que você criou no proprio site;
-
-Confirme sua senha - confirme a senha digitada;
-
-Telefone - colocar o telefone ou celular pessoal;
-
-
-* DADOS DE ENDEREÇO
-
-Endereço - Colocar o endereço onde você reside atualmente ou onde você quer que o pedido chegue;
-
-Bairro - Colocar o bairro de onde você reside;
-
-Num. da Residência - Colocar o número de identificação de sua casa ou condominio;
-
-Complemento - Colocar descrição e mais detalhes (se precisar) sobre seu local de entrega;
-
-CEP - Colocar o CEP de moradia;
-
-Cidade - Colocar a cidade cujo você reside;
-
-Estado - colocar o estado onde você reside;
+Ele foi feito para garantir formas modernas e acessíveis para ajudar na facilidade das vendas e na visão de outras pessoas na loja, ajudando até mesmo as vendas.
 
 ## Finalizando
 
