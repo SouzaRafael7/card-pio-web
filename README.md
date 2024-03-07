@@ -3,8 +3,7 @@
 
 * [Descrição](#descrição)
 * [Site](#site)
-* [Finalizando](#finalizando)
-* [Sites](#sites)
+* [Cardápio](#cardápio)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Autores](#autores)
  
@@ -36,10 +35,5 @@ O cardápio é uma nova forma menos poluentes de negócios alavancarem suas vend
 * [<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="Css3"/></code>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript"/></code>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-## Sites
-* ``AMAZON`` - Uma empresa americana entre as maiores do mundo e atua no Brasil.
-* ``MERCADO LIVRE`` - Uma empresa Argentina mas com sua maior parte de clientes no Brasil.
-* ``SHOPEE`` - Uma empresa Chinesa que atua no Brasil e no mundo.
-
 ## Autores
-* ``Aluno 1ºC:``Rafael Souza Mastellini
+* ``Aluno 2ºC:``Rafael Souza Mastellini
