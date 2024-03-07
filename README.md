@@ -14,7 +14,7 @@ O site foi feito para ajudar pessoas com lojas físicas ou não, em não precisa
 ## Site
 O cardápio é da loja Fresh Juice (Nome e logo fictício), onde a mesma é uma loja de sucos naturais, saborosos e bem feitos, com um preço relativamente acessível em relação as outras loja do mesmo ramo pesquisadas.
 
-Ele foi feito para garantir formas modernas e acessíveis para ajudar na facilidade das vendas e na visão de outras pessoas na loja, ajudando até mesmo na polularidae da loja.
+O site e as imagens 
 
 ## Cardápio
 O cardápio tem muitos sabores de sucos variádos, tamanhos diferentes e preços relativos dependendo do suco.
