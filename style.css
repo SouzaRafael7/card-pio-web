@@ -5,8 +5,8 @@ body {
 }
 
 header {
-    background-color: #234cff;
-    color: #ffffff;
+    background-color: #2eff74;
+    color: #434e00;
     padding: 20px;
     text-align: center;
     
@@ -33,9 +33,9 @@ main {
     list-style: none;
     margin: 5px;
     padding: 10px;
-    background-color: #bcd9fa;
-    border: 1px solid #ff8d8d;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+    border: 1px solid #eeff00;
+    box-shadow: 0 0 5px rgb(11, 255, 3);
     text-align: center;   
 }
 
@@ -58,7 +58,7 @@ main {
 .informacoes {
     margin-top: 20px;
     padding: 20px;
-    background-color: #0051ff;
+    background-color: #3aff65;
     color: #ffffff;
 }
 
