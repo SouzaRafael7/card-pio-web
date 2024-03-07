@@ -25,12 +25,20 @@ G - 1 Litro
 
 Os sites pegos ajudaram e muito na construção do site e na busca de irformações sobre oque se pede em lojas de comércio online. Assim sendo, consegui entender cada tópico e cada dado pedido.
 
+O cardápio é uma nova forma menos poluentes de negócios alavancarem suas vendas e tornar mais intuitivo e tecnológico a mesma.
+
 ## Tecnologias Utilizadas
-* ``HTML 5``
-* ``GITHUB``
-* ``BOOTSTRAP 5``
-* ``VS CODE``
-* ``TEAMS``
+## Técnicas e tecnologias utilizadas
+* [<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+* [<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="Bootstrap v5.0"/></code>](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+* [<code><img height="32" src="https://www.malwarebytes.com/wp-content/uploads/sites/2/2023/01/asset_upload_file97293_255583.jpg" alt="Git"/></code>](https://git-scm.com/)
+* [<code><img height="32" src="https://blog.netscandigital.com/wp-content/uploads/2023/07/O-que-e-o-Google-Bard.png" alt="Bard"/></code>](https://bard.google.com/chat?hl=pt)
+* [<code><img height="32" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VisualStudio"/></code>](https://code.visualstudio.com/)
+* [<code><img height="32" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></code>](https://github.com/)
+tem menu de contexto
+
+
+tem menu de contexto
 
 ## Sites
 * ``AMAZON`` - Uma empresa americana entre as maiores do mundo e atua no Brasil.
