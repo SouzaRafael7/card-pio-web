@@ -12,21 +12,19 @@ header {
     
 }
 
-h1 {
-    margin: 0;
-    padding: 0;
+.box{
+    flex: 1;
+	margin: 5px;
+	text-align: center;
+	font-size: 1.5em;
 }
-
-p {
-    margin: 40px 0;
+.row {
+	flex-direction: row;
 }
-
-main {
-    padding: 50px;
-}
-
 .sucos {
-    flex-wrap: wrap;
+    /* max-width: 800px; */
+	margin: 0 auto;
+	display: flex;
 }
 
 .sucos div {
@@ -36,8 +34,9 @@ main {
     background-color: #ffffff;
     border: 1px solid #eeff00;
     box-shadow: 0 0 5px rgb(11, 255, 3);
-    text-align: center;   
+    text-align: center; 
 }
+
 
 .sucos div img {
     width: 100px;
@@ -54,6 +53,22 @@ main {
 .sucos div p {
     margin: 5px 0;
 }
+
+
+
+h1 {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: 40px 0;
+}
+
+main {
+    padding: 50px;
+}
+
 
 .informacoes {
     margin-top: 20px;
